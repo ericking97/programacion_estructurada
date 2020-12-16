@@ -1,9 +1,10 @@
 #include <stdio.h>
-#include <conio.h> // Suponiendo que se tenga conio.h instalado
+#include <conio.h>
 
-void main()
+int main()
 {
-  system("clear"); // Usa clrscr de contar con conio.h
+  clrscr();
   gotoxy(10, 20);
-  printf("heme aquí");
+  printf("heme aqui");
+  return 0;
 }

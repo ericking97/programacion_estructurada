@@ -1,8 +1,9 @@
 #include <stdio.h>
-// #include <conio.h> // Descomentar si cuentas con conio.h
+#include <conio.h>
 
-void main()
+int main()
 {
-  system("clear"); // Usa clrscr de contar con conio.h
+  clrscr();
   printf("Cosme\nFulanito");
+  return 0;
 }
