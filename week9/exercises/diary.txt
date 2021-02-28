@@ -1,0 +1,6 @@
+Manuel,Cruz,5510101010,
+Jose,Sanchez,5520202020,
+Marco,Polo,5511111111,
+Alberto,Arenas,5540404040,
+Omar,Gonzales,5550505050,
+Alejandro,Cuenca,5560606060,
